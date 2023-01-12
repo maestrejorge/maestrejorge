@@ -1,6 +1,6 @@
-### Hola 👋, My name's Jorge Maestre 
-#### I'm Industrial Engineer && Software TypeScript: Javascript Developer  
-# From Locombia 
+## Hola 👋, My name's Jorge Maestre 
+### I'm Industrial Engineer && Software TypeScript: Javascript Developer  
+#### I from Locombia 
 Habilidades: VUE JS / REACT / JS / HTML / CSS / NEXT JS / EXPRESS / AJAX / TYPESCRIPT / 
 
 - 🔭 Estoy trabajando en this page. 
