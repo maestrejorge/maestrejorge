@@ -1,7 +1,6 @@
 ### Hola 👋, My name's Jorge Maestre 
 #### I'm Industrial Engineer && Software TypeScript: Javascript Developer  
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+# From Locombia 
 Habilidades: VUE JS / REACT / JS / HTML / CSS / NEXT JS / EXPRESS / AJAX / TYPESCRIPT / 
 
 - 🔭 Estoy trabajando en this page. 
